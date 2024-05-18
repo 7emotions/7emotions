@@ -16,4 +16,3 @@
 
 # Waka Time
 
-[![7emotions's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7emotions)](https://github.com/anuraghazra/github-readme-stats)
