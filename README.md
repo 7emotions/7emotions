@@ -20,9 +20,9 @@
 
 # Pinned Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7emotions&repo=RMCS)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7emotions&repo=UGAS)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7emotions&repo=SimReferee)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7emotions&repo=RMCS)](https://github.com/7emotions/RMCS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7emotions&repo=UGAS)](https://github.com/7emotions/UGAS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7emotions&repo=SASS)](https://github.com/7emotions/SASS)
 
 # Language
 
