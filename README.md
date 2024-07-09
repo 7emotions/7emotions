@@ -21,7 +21,7 @@
 # Pinned Repos
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7emotions&repo=rmcs_auto_aim)](https://github.com/Alliance-Algorithm/rmcs_auto_aim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=rmcs_auto_aim)](https://github.com/Alliance-Algorithm/rmcs_auto_aim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7emotions&repo=RMCS)](https://github.com/7emotions/RMCS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7emotions&repo=UGAS)](https://github.com/7emotions/UGAS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7emotions&repo=SASS)](https://github.com/7emotions/SASS)
