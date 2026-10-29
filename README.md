@@ -8,7 +8,9 @@
 
 ## Self Introduction
 
-A junior undergraduate student at NJUST.
+Chief Technology Officer of OceanUgen Technology Co., Ltd., an undergraduate student at NJUST, and former co-founder of Nanjing Ziqi Yunqing Technology Co., Ltd. My research focuses on underwater ROV robot development, Agent development, etc.
+
+I once worked in the NJUST RoboMaster Alliance studio, focusing on algorithms in the vision direction, mainly exploring target detection and self-aiming related technologies. This experience served as my enlightenment in robotics and engineering implementation.
 
 **I'm really into new stuff. My dream is to be a cool person.**
 
